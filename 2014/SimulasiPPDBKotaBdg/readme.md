@@ -1,1 +1,1 @@
-# PPDB Simulasi Kota Bandung
+# Simulasi PPDB Kota Bandung
